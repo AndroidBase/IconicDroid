@@ -1,8 +1,5 @@
 package com.atermenji.android.iconicdroid.sample;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.ListActivity;
 import android.content.Context;
 import android.content.Intent;
@@ -14,6 +11,12 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * 标准eclipse 工程
+ */
 public class MainActivity extends ListActivity {
 
     @Override
